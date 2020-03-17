@@ -4,3 +4,8 @@
 
 ### Informações Gerais
 
+#### Dependências Necessárias
+* parallel (*NIX)
+
+### Execução
+$: sh start.sh
