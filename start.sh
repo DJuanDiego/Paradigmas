@@ -10,10 +10,10 @@
 # Paradigmas de Programação 2019.1 - UFERSA/Angicos.
 
 # Executa o Crawler em python.
-python Crawler.py
+python bin/Crawler.py
 
 # Executa o script de limpeza.
-bash Limpeza.sh
+bash bin/Limpeza.sh
 
 # Baixa os arquivos
 cat saida.txt \
