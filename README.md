@@ -5,7 +5,10 @@ Script criado para a realização de download de dados obtidos através de dork 
 # Informações Gerais
 
 ## Dependências Necessárias
-* parallel (*NIX)
+<h3> parallel (*NIX)</h3>
 
 ## Execução
-$: sh start.sh
+<h3> sh start.sh</h3>
+
+## Abordagem
+O projeto foi criado em Python 2.7 e Shell Script (Bash).
