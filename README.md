@@ -9,7 +9,7 @@ Script criado para a realização de download de dados obtidos através de dork 
 
 ## Execução
 ```
-sh start.sh
+$ sh start.sh
 ```
 
 ## Abordagem
